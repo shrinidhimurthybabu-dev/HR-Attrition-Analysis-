@@ -38,5 +38,3 @@ FROM WA_FnUseC_HREmployeeAttrition
 GROUP BY jobrole
 ORDER BY Avg_Income DESC;
 
-## 📷 Dashboard Screenshot
-![Dashboard](hr_dashboard.png)
